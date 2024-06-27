@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "arduinojson.h": "c",
+        "spiffs.h": "c",
+        "aws_handling.h": "c",
+        "string": "cpp",
+        "new": "cpp"
+    }
+}
